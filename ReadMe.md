@@ -1,6 +1,6 @@
 # 💫About Me :
-I am a third year student of BS(CS) at FAST-NUCES Islamabad
-I am open to internship/job offers relevant to my field
+I am a third year student of BS(CS) at FAST-NUCES Islamabad  
+I am open to internship/job offers relevant to my field  
 My interests include Web Dev, Iot, AI, ML, Blockchain
 
 ## 🌐Socials
