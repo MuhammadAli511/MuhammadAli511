@@ -8,7 +8,7 @@ Software Developer
 * 🌍  I'm based in Rawalpindi, Pakistan
 * 🖥️  See my portfolio at [mohammad-ali.me](http://mohammad-ali.me)
 * ✉️  You can contact me at [mohammadali417@outlook.com](mailto:mohammadali417@outlook.com)
-* 🚀  I'm currently working on [Treffen](http://treffen.vercel.app/)
+* 🚀  I'm currently working at [EzWiFi](https://ezwi.fi/)
 * 🧠  I'm learning about Neural Networks
 
 ### Skills
