@@ -9,7 +9,6 @@ Software Developer
 * 🖥️  See my portfolio at [mohammad-ali.me](http://mohammad-ali.me)
 * ✉️  You can contact me at [mohammadali417@outlook.com](mailto:mohammadali417@outlook.com)
 * 🚀  I'm currently working at [FAIR](https://footballairesearch.com/)
-* 🧠  I'm learning about Neural Networks
 
 ### Skills
 
