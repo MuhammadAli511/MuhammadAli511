@@ -2,7 +2,7 @@
 Hi 👋 My name is Muhammad Ali
 =============================
 
-Software Developer
+Software Engineer
 ------------------
 
 * 🌍  I'm based in Rawalpindi, Pakistan
