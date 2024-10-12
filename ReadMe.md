@@ -17,5 +17,3 @@ Software Engineer
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadAli511&theme=algolia" alt="MuhammadAli511"  />
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Hxn's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MuhammadAli511&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadAli511&show_icons=true&locale=en&layout=compact&theme=algolia" alt="MuhammadAli511" height="192px"/>
