@@ -28,7 +28,7 @@
 
 ## Open Source Contributions
 
-- 🧮 **[OpenUsage](https://github.com/robinebers/openusage)** – Menu bar app to track all your AI coding subscriptions (Cursor, Copilot, Claude, Codex, etc.) in one place. Built with Tauri, React, and Rust. 960+ stars.
+- 🧮 **[OpenUsage](https://github.com/robinebers/openusage)** – Menu bar app to track all your AI coding subscriptions (Cursor, Copilot, Claude, Codex, etc.) in one place. Built with Tauri, React, and Rust.
 
 ---
 
