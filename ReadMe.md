@@ -35,8 +35,8 @@
 ## Connect
 
 <p align="left">
-<a href="https://www.linkedin.com/in/ali-muhammad-azhar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" width="32" height="32" /></a>
-<a href="https://x.com/AliFoundry" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/x.svg" width="32" height="32" /></a>
-<a href="https://github.com/MuhammadAli511" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/ali-muhammad-azhar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" width="32" height="32" /></a>&nbsp;
+<a href="https://x.com/AliFoundry" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/x.svg" width="32" height="32" /></a>&nbsp;
+<a href="https://github.com/MuhammadAli511" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg" width="32" height="32" /></a>&nbsp;
 <a href="mailto:mohammadali417@outlook.com"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" width="32" height="32" /></a>
 </p>
