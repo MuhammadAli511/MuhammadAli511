@@ -4,7 +4,7 @@
 
 
 
-> Building AI-powered products and scalable backends. Currently shipping WhatsApp AI chatbots reaching 150,000+ learners across Pakistan at Beaj Education.
+> Building AI-powered products and scalable backends. Currently shipping WhatsApp AI chatbots reaching 35,000+ learners at Beaj Education.
 
 ---
 
